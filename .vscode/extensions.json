@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "bradlc.vscode-tailwindcss",
+    "ms-vscode.vscode-typescript-vue-plugin",
+    "redhat.vscode-yaml",
+    "unifiedjs.vscode-mdx",
+    "formulahendry.auto-rename-tag"
+  ]
+}
